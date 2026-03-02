@@ -15,7 +15,6 @@ Soy estudiante de **Sistemas Computacionales** en el **Tecnologico de Tijuana**.
 ---
 
 ## 🛠️ Tecnologías y herramientas
-> Ajusta según lo que sí uses.
 
 **Lenguajes:**  
 - C# / Python  
@@ -33,7 +32,6 @@ Soy estudiante de **Sistemas Computacionales** en el **Tecnologico de Tijuana**.
 |---|---|---|---|
 | 8-bit Assembly Practice | Bitácora STEP + análisis de flags en emulador | 8-bit ASM | ✅ |
 | ARM Study Prompts | Prompts complejos + reflexiones (Study Mode) | ARM64 | ✅ |
-| [Tu proyecto] | [qué hace] | [tech] | ⏳ |
 
 ---
 
