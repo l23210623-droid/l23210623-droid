@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hola, soy Martinez Marta Jorge Emiliano (aka l23210623-droid)
 
-<!--
-**l23210623-droid/l23210623-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Sistemas Computacionales** en el **Tecnologico de Tijuana**. Me interesa **arquitectura de computadoras**, **ensamblador**, y construir proyectos prácticos que expliquen “cómo funciona” el hardware y el software desde abajo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Sobre mí (rápido)
+| Campo | Info |
+|------|------|
+| 📍 Ubicación | México |
+| 🎓 Enfoque | Ensamblador (ARM / 8-bit), Arquitectura, Git/GitHub |
+| 🧪 Actualmente | Prácticas con Troy’s Breadboard Computer + Study Mode |
+| 🎯 Meta | Mejorar en depuración, bajo nivel y documentación |
+
+---
+
+## 🛠️ Tecnologías y herramientas
+> Ajusta según lo que sí uses.
+
+**Lenguajes:**  
+- C# / Python  
+- Assembly (ARM64 / 8-bit emulador)
+
+**Herramientas:**  
+- Git / GitHub  
+- Windows
+- VS Code
+
+---
+
+## 📌 Proyectos destacados
+| Proyecto | Descripción | Tech | Estado |
+|---|---|---|---|
+| 8-bit Assembly Practice | Bitácora STEP + análisis de flags en emulador | 8-bit ASM | ✅ |
+| ARM Study Prompts | Prompts complejos + reflexiones (Study Mode) | ARM64 | ✅ |
+| [Tu proyecto] | [qué hace] | [tech] | ⏳ |
+
+---
+
+## 📈 Estadísticas y gráficas (automáticas)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l23210623-droid&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l23210623-droid&layout=compact)
+
+---
+
+## 🔥 Actividad (gráfica)
+![GitHub Streak](https://streak-stats.demolab.com?user=l23210623-droid)
+
+---
+
+## 🧩 Git City (nickname)
+- Nickname: **l23210623-droid**
+- Perfil: https://www.thegitcity.com/dev/l23210623-droid
+
+---
+
+## 📫 Contacto
+- GitHub: https://github.com/l23210623-droid  
+- Email: l23210623@tectijuana.edu.mx
+
+---
